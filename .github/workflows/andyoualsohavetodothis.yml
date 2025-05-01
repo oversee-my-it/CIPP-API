@@ -1,7 +1,7 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/azure/functions-action
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy Powershell project to Azure Function App - AZUREAPPSERVICE_PUBLISHPROFILE_EC59F6EFF6E44C55851573F3D8F29978 # Change cippdh4c to your Function App Name
+name: Build and deploy Powershell project to Azure Function App - cippk2org # Change cippdh4c to your Function App Name
 
 on:
   push:
